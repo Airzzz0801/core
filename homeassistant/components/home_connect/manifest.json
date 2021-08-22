@@ -1,6 +1,6 @@
 {
-  "domain": "home_connect",
-  "name": "Home Connect",
+  "domain": "home_connect1",
+  "name": "Home Connect1",
   "documentation": "https://www.home-assistant.io/integrations/home_connect",
   "dependencies": ["http"],
   "codeowners": ["@DavidMStraub"],
